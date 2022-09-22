@@ -6,7 +6,7 @@
     <p>
         <a href="#Compile">Compile</a> •
         <a href="#Use">Use</a> •
-        <a href="https://github.com/blazeitdude/libft/blob/main/LICENSE">License</a>
+        <a href="https://github.com/blazeitdude/libft/blob/master/LICENSE">License</a>
     </p>
 </div>
 
